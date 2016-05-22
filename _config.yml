@@ -1,0 +1,14 @@
+layout_spectrum: 0.281362
+typography_spectrum: 0.3082437
+color:
+  saturation: 0.7118182
+  lightness: 0.6487015
+  brandStrength: 0.6559139
+  brandColors:
+    - '#1E8EBC'
+    - '#FFFFFF'
+    - '#CCD8DD'
+    - '#86BED5'
+    - '#42AE4D'
+  rhythmicContrast: 0.1198216
+name: Playlotto
