@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Playlotto]]></title>
+        <description><![CDATA[Playlotto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 04:34:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>So you have just won a mega lottery, what do you buy first? Who knows, but the only constraint is the limits of your imagination. Well in this the first post lets really blow the bank, with a small private jet capable of flying 15200 km, oh and enough space to fly a couple hundred of your friends. </p>]]></description>
+            <link>undefinedso-you-have-just-won-a-mega-lottery-what-do-you-buy-first/index.html</link>
+            <guid isPermaLink="false">8e8be3d7-2241-402c-93ec-165f1607e00e</guid>
+            <pubDate>Mon, 23 May 2016 04:34:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
